@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|c:\\users\\titon\\source\\repos\\task_mariokart\\task_mariokart\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|solutionrelative:task_mariokart\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|c:\\users\\titon\\source\\repos\\task_mariokart\\task_mariokart\\repositories\\squadrarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|solutionrelative:task_mariokart\\repositories\\squadrarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|c:\\users\\titon\\source\\repos\\task_mariokart\\task_mariokart\\dto\\personaggidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|solutionrelative:task_mariokart\\dto\\personaggidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|c:\\users\\titon\\source\\repos\\task_mariokart\\task_mariokart\\controllers\\squadracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|solutionrelative:task_mariokart\\controllers\\squadracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|c:\\users\\titon\\source\\repos\\task_mariokart\\task_mariokart\\services\\squadraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|solutionrelative:task_mariokart\\services\\squadraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|c:\\users\\titon\\source\\repos\\task_mariokart\\task_mariokart\\services\\personaggiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|solutionrelative:task_mariokart\\services\\personaggiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|c:\\users\\titon\\source\\repos\\task_mariokart\\task_mariokart\\dto\\squadradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|solutionrelative:task_mariokart\\dto\\squadradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|c:\\users\\titon\\source\\repos\\task_mariokart\\task_mariokart\\models\\personaggi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60659EC-E2B5-43F3-B994-DC25C18F67C6}|Task_MarioKart\\Task_MarioKart.csproj|solutionrelative:task_mariokart\\models\\personaggi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SquadraService.cs",
+              "DocumentMoniker": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\Services\\SquadraService.cs",
+              "RelativeDocumentMoniker": "Task_MarioKart\\Services\\SquadraService.cs",
+              "ToolTip": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\Services\\SquadraService.cs",
+              "RelativeToolTip": "Task_MarioKart\\Services\\SquadraService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwFUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:45:47.113Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SquadraController.cs",
+              "DocumentMoniker": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\Controllers\\SquadraController.cs",
+              "RelativeDocumentMoniker": "Task_MarioKart\\Controllers\\SquadraController.cs",
+              "ToolTip": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\Controllers\\SquadraController.cs",
+              "RelativeToolTip": "Task_MarioKart\\Controllers\\SquadraController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:39:49.259Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SquadraRepo.cs",
+              "DocumentMoniker": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\Repositories\\SquadraRepo.cs",
+              "RelativeDocumentMoniker": "Task_MarioKart\\Repositories\\SquadraRepo.cs",
+              "ToolTip": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\Repositories\\SquadraRepo.cs",
+              "RelativeToolTip": "Task_MarioKart\\Repositories\\SquadraRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA0wDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:19:11.327Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaggiDTO.cs",
+              "DocumentMoniker": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\DTO\\PersonaggiDTO.cs",
+              "RelativeDocumentMoniker": "Task_MarioKart\\DTO\\PersonaggiDTO.cs",
+              "ToolTip": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\DTO\\PersonaggiDTO.cs",
+              "RelativeToolTip": "Task_MarioKart\\DTO\\PersonaggiDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:18:28.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Squadra.cs",
+              "DocumentMoniker": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\Models\\Squadra.cs",
+              "RelativeDocumentMoniker": "Task_MarioKart\\Models\\Squadra.cs",
+              "ToolTip": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\Models\\Squadra.cs",
+              "RelativeToolTip": "Task_MarioKart\\Models\\Squadra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:11:28.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonaggiService.cs",
+              "DocumentMoniker": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\Services\\PersonaggiService.cs",
+              "RelativeDocumentMoniker": "Task_MarioKart\\Services\\PersonaggiService.cs",
+              "ToolTip": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\Services\\PersonaggiService.cs",
+              "RelativeToolTip": "Task_MarioKart\\Services\\PersonaggiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:57:14.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Personaggi.cs",
+              "DocumentMoniker": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\Models\\Personaggi.cs",
+              "RelativeDocumentMoniker": "Task_MarioKart\\Models\\Personaggi.cs",
+              "ToolTip": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\Models\\Personaggi.cs",
+              "RelativeToolTip": "Task_MarioKart\\Models\\Personaggi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:50:24.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SquadraDTO.cs",
+              "DocumentMoniker": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\DTO\\SquadraDTO.cs",
+              "RelativeDocumentMoniker": "Task_MarioKart\\DTO\\SquadraDTO.cs",
+              "ToolTip": "C:\\Users\\titon\\source\\repos\\Task_MarioKart\\Task_MarioKart\\DTO\\SquadraDTO.cs",
+              "RelativeToolTip": "Task_MarioKart\\DTO\\SquadraDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:11:23.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

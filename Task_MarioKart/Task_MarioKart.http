@@ -1,0 +1,6 @@
+@Task_MarioKart_HostAddress = http://localhost:5073
+
+GET {{Task_MarioKart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
